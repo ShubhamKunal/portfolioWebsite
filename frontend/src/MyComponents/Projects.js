@@ -12,7 +12,7 @@ export const Projects = () => {
         <td width="40%">
           Google disk clone -
            {" "}
-           <a href="https://fileupload-kunal.netlify.app/login">
+           <a href="https://fileupload-kunal.netlify.app">
             <b>backupizer</b>
           </a>{" "}
            <a href="https://github.com/ShubhamKunal/backupizer">
@@ -30,7 +30,7 @@ export const Projects = () => {
 
         <td>
           To-do note keeper -{" "}
-          <a href="https://todo-kunal.netlify.app/login">
+          <a href="https://todo-kunal.netlify.app">
             <b>todoList</b>
           </a>{" "}
           <a href="https://github.com/ShubhamKunal/todoList">

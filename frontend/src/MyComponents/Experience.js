@@ -10,11 +10,11 @@ export const Experience = () => {
           <th width="70%">
             Associate Software Engineer
             <br />
-            2023-now
+              Feb 2023 - Now
           </th>
 
           <td width="30%">
-            Worked extensively with Flutter, Node, Express, AWS EC2.
+            Worked extensively with Flutter, Node, Express, AWS.
             <br />
             At{" "}
             <a href="http://www.hashkraft.com/">
@@ -28,7 +28,7 @@ export const Experience = () => {
           <th width="70%">
             Project Intern
             <br />
-            2021-2022
+            Mar 2022 - July 2022
           </th>
 
           <td width="30%">
@@ -48,7 +48,7 @@ export const Experience = () => {
           <th>
             Project Intern
             <br />
-            2021-2021
+            May 2021 - June 2021
           </th>
 
           <td>
@@ -67,7 +67,7 @@ export const Experience = () => {
           <th width="70%">
             Project Intern
             <br />
-            2020-2021
+            Dec 2020 - Feb 2021
           </th>
 
           <td width="30%">

@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <div>
+        <br />
         <GeneralInformation />
         <br />
         <Education />
@@ -19,6 +20,7 @@ function App() {
         <Experience />
         <br />
         <Projects />
+        <br />
       </div>
     </div>
   );

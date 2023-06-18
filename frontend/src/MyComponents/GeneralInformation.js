@@ -8,25 +8,31 @@ export const GeneralInformation = () => {
       <table>
         <tr>
           <th>Name:</th>
-          <td>Shubham Kunal</td>
-        </tr>
+          <td>&#x27A4; Shubham Kunal</td>
+        </tr><br />
         <tr>
           <th>D.O.B:</th>
-          <td>3rd April 1998</td>
-        </tr>
+          <td>&#x27A4; 3rd April 1998</td>
+        </tr><br />
         <tr>
           <th>Address:</th>
-          <td>E3, Block A, Devalaya Apartment, Hirapur, Dhanbad - 826001</td>
-        </tr>
+          <td>&#x27A4; E3, Block A, Devalaya Apartment, Hirapur, Dhanbad - 826001</td>
+        </tr><br />
         <tr>
           <th>Contact:</th>
-          <td>(+91) 9308274111</td>
-        </tr>
+          <td>&#x27A4; (+91) 9308274111</td>
+        </tr><br />
         <tr>
           <th>Email:</th>
           <td rowSpan="2">
-            shubhamkunal21@gmail.com <br /> shubhamkunal@zohomail.com
+            &#x27A4; shubhamkunal21@gmail.com <br />&#x27A4; shubhamkunal@zohomail.com
           </td>
+        </tr>
+        <br />
+        <tr>
+          <th>Certifications:</th>
+          <td rowSpan="2"><br/>
+          <i> &#x27A4; AWS Developer Associate</i> <br /> &#x27A4; Russian Language B2</td>
         </tr>
       </table>
       <div id="links">
