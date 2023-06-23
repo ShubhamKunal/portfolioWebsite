@@ -18,11 +18,15 @@ export const GeneralInformation = () => {
         </tr><br />
         <tr>
           <th>Address:</th>
-          <td>&#x27A4; E3, Block A, Devalaya Apartment, Hirapur, Dhanbad - 826001</td>
+          <td>&#x27A4; E3, Block A, Devalaya Apartment, Hirapur, Dhanbad - 826001 </td>
         </tr><br />
         <tr>
           <th>Contact:</th>
           <td>&#x27A4; (+91) 9308274111</td>
+        </tr><br />
+        <tr>
+          <th>Country:</th>
+          <td>&#x27A4; India <span role="img" aria-label="">🇮🇳</span></td>
         </tr><br />
         <tr>
           <th>Email:</th>
