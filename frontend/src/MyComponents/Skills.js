@@ -7,9 +7,10 @@ import {FcLinux} from "react-icons/fc";
 
 export const Skills = () => {
   return (
-    <div className="container">
-      <h4>Skills</h4>
+    <div className="container" style={{padding:'20px'}}>
+      <h2 style={{fontFamily:'Pacifico'}}>Skills <span role="img" aria-label="">&#128170;</span></h2>
       <table id="skillTable">
+        <br/>
         <tr>
           <th>Frontend: </th>
           <td>

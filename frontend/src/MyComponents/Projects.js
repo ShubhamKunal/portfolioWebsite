@@ -2,8 +2,9 @@ import React from 'react'
 
 export const Projects = () => {
   return (
-    <div className="container">
-    <h4><u><i>Some</i></u> note-worthy Projects</h4>
+    <div className="container" style={{padding:'20px'}}>
+    <h2 style={{fontFamily:'Pacifico'}}><u><i>Some</i></u> note-worthy Projects <span role="img" aria-label="">&#129325;</span></h2>
+    <br/>
     <table>
       <tr>
         <th width="60%"> 

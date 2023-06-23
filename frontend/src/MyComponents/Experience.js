@@ -3,8 +3,9 @@ import "./Experience.css";
 
 export const Experience = () => {
   return (
-    <div className="container">
-      <h4>Experience</h4>
+    <div className="container" style={{padding:'20px'}}>
+      <h2 style={{fontFamily:'Pacifico'}}>Experience <span role="img" aria-label="">&#128535;</span></h2>
+      <br/>
       <table>
         <tr>
           <th width="70%">
